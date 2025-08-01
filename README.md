@@ -1,142 +1,27 @@
-# Ternify-Tech-task2
-Web development (frontend intern)
+🧠 Task 2 Completed: Quiz App 📝
 
+Excited to share the completion of Task 2: Quiz Application as part of my internship with Ternify Tech!
 
-📝 Ternify Tech Internship
+🎯 What I Built:
 
-💻 Task 2: Portfolio Website
+A fully functional, browser-based quiz app
 
+Dynamic question display with multiple-choice options
 
----
+Real-time score tracking
 
-📁 Project Name:
+Answer validation and final result view
 
-Personal Portfolio Website
-
-
----
-
-👨‍💻 Submitted By:
-
-Aravind Kumar G.S
-Web Development Intern @ Ternify Tech
-
-
----
 
 🛠️ Tech Stack:
+HTML | CSS | JavaScript
 
-HTML5
+📂 GitHub Repository: [Insert GitHub Link]
+🌐 Live Demo: [Insert Live Link]
 
-CSS3
+This project helped me sharpen my JavaScript skills and enhanced my ability to manipulate the DOM and handle user interaction dynamically.
 
-JavaScript (Optional for interactivity)
-
-
-
----
-
-🎯 Objective:
-
-Create a professional, clean, and responsive personal portfolio website that showcases:
-
-Personal introduction
-
-Skills
-
-Projects
-
-Resume (optional)
-
-Contact section
-
-
-
----
-
-📂 File Structure:
-
-Filename	Purpose
-
-index.html	Structure of the portfolio
-style.css	Styling and layout
-script.js (opt)	Optional interactivity (e.g., form)
-assets/	Folder for images, icons, etc.
-
-
-
----
-
-📸 Features:
-
-Responsive layout (mobile-friendly)
-
-About section with intro
-
-Skills displayed in list or progress bars
-
-Projects section with live links (if available)
-
-Contact form or social links
-
-Smooth scrolling and clean layout
-
-
-
----
-
-📱 Steps to Run (On Mobile):
-
-1. Install any mobile code editor:
-
-Acode
-
-Spck Editor
-
-Dcoder
-
-
-
-2. Create the following files:
-
-index.html
-
-style.css
-
-Optionally, script.js
-
-
-
-3. Paste the correct code into each file.
-(Let me know if you want full source code.)
-
-
-4. Preview the index.html file using the editor’s browser option.
-
-
-
-
----
-
-🔗 Live Preview Tip:
-
-Use GitHub Pages or Netlify if you want to host and share your portfolio with others.
-
-
----
-
-💡 Suggested Sections to Include:
-
-Home
-
-About Me
-
-Skills
-
-Projects
-
-Contact Me
-(Resume and Certificates section are optional but recommended.)
+#QuizApp #JavaScript #TernifyTech #WebDevelopment #InternshipProject #FrontendDevelopment #LearningByDoing
 
 
 
